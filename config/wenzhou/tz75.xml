@@ -56,7 +56,7 @@
       <Help>
       </Help>
     </Value>
-
+  </CommandClass>
   <!-- A Example of Setting a Compatibility Flag on a CommandClass - In this case the Device Doesn't support Get for Alarm Class -->
   <CommandClass id="113">
     <Compatibility>
